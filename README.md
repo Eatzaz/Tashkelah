@@ -75,3 +75,8 @@ Tashkelah is a community-driven sports booking platform built as a final project
 | 35 | Public match payment                   | Eatzaz  |
 | 36 | Book public match                      | Eatzaz  |
 | 59 | Show fields by sport and address       | Eatzaz  |
+| 59  | Show fields by sport and address       | Eatzaz  |
+| 60  | Add a rating to the field              | Eatzaz  |
+| 61  | Get reviews by field                   | Eatzaz  |
+| 62  | Delete review                          | Eatzaz  |
+| 63  | Update review                          | Eatzaz  |
